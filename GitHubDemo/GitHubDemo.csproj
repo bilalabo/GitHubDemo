@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Welcome.aspx" />
     <Content Include="hello.aspx" />
     <Content Include="Test.aspx" />
     <Content Include="Web.config" />
